@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webte1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<zaznam>
+		<rok>ZS 2021/2022</rok>
+		<hodnotenie>
+			<A>50</A>
+			<B>42</B>
+			<C>36</C>
+			<D>18</D>
+			<E>10</E>
+			<FX>0</FX>
+			<FN>7</FN>
+		</hodnotenie>
+	</zaznam>
+	<zaznam>
+		<rok>ZS 2020/2021</rok>
+		<hodnotenie>
+			<A>55</A>
+			<B>48</B>
+			<C>26</C>
+			<D>8</D>
+			<E>5</E>
+			<FX>0</FX>
+			<FN>2</FN>
+		</hodnotenie>
+	</zaznam>
+	<zaznam>
+		<rok>ZS 2019/2020</rok>
+		<hodnotenie>
+			<A>22</A>
+			<B>36</B>
+			<C>36</C>
+			<D>35</D>
+			<E>4</E>
+			<FX>3</FX>
+			<FN>1</FN>
+		</hodnotenie>
+	</zaznam>
+	<zaznam>
+		<rok>ZS 2018/2019</rok>
+		<hodnotenie>
+			<A>23</A>
+			<B>20</B>
+			<C>14</C>
+			<D>3</D>
+			<E>1</E>
+			<FX>5</FX>
+			<FN>2</FN>
+		</hodnotenie>
+	</zaznam>
+	<zaznam>
+		<rok>ZS 2017/2018</rok>
+		<hodnotenie>
+			<A>24</A>
+			<B>31</B>
+			<C>24</C>
+			<D>10</D>
+			<E>6</E>
+			<FX>5</FX>
+			<FN>1</FN>
+		</hodnotenie>
+	</zaznam>
+	<zaznam>
+		<rok>ZS 2016/2017</rok>
+		<hodnotenie>
+			<A>14</A>
+			<B>55</B>
+			<C>45</C>
+			<D>15</D>
+			<E>2</E>
+			<FX>4</FX>
+			<FN>0</FN>
+		</hodnotenie>
+	</zaznam>
+</webte1>
